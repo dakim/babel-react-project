@@ -1,2 +1,2 @@
 # babel-react-project
-NodeJs es6 babel jsx project configuration 
+NodeJs es6 babel jsx web project configuration 
